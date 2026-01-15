@@ -2,6 +2,7 @@ import { Github, Linkedin, Mail, ChevronDown, Download, FileText } from 'lucide-
 import { motion } from 'motion/react';
 
 
+
 interface HeroProps {
     resumeUrl?: string;
     resumeFileName?: string;
@@ -21,7 +22,7 @@ export function Hero({ resumeUrl, resumeFileName, isAdmin, onManageResume }: Her
                     <div className="mb-6">
                         <div className="hero-avatar">
                             <img
-                                src="/profile.png"
+                                src="/public/profile.png"
                                 alt="Profile Picture"
                                 style={{
                                     width: '100%',
