@@ -35,11 +35,11 @@ export function Hero({ resumeUrl, resumeFileName, isAdmin, onManageResume }: Her
                     </div>
 
                     <h1 className="hero-title">
-                        Hi, I'm <span className="hero-title-accent">John Doe</span>
+                        Hi, I'm <span className="hero-title-accent">KUNDWA PACIS</span>
                     </h1>
 
                     <h2 className="hero-subtitle">
-                        Software Engineer | Embedded Systems | IoT Specialist
+                        Software Engineer | Embedded Systems and Robotics | IoT Specialist
                     </h2>
 
                     <p className="hero-description">
