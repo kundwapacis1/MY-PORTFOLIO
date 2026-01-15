@@ -21,7 +21,7 @@ export function Hero({ resumeUrl, resumeFileName, isAdmin, onManageResume }: Her
                     <div className="mb-6">
                         <div className="hero-avatar">
                             <img
-                                src="/src/assets/kundwa image.png"
+                                src="/src/assets/profile.png"
                                 alt="Profile Picture"
                                 style={{
                                     width: '100%',
